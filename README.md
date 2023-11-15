@@ -42,7 +42,7 @@ Ce projet Spring Boot gère les articles et les catégories.
 1-SPRINGBOOT  
 2-SWAGGER  
 3-POSTMAN  
-4
+4-MYSQL
 
 # Conclusion
 Ce projet démontre l'efficacité de l'intégration de technologies telles que Spring Boot, Swagger, et Postman pour gerer des articles et categories . Il constitue une base robuste pour l'extension de l'application, que ce soit par l'ajout de nouvelles fonctionnalités...
