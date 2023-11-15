@@ -29,12 +29,24 @@ Ce projet Spring Boot gère les articles et les catégories.
 ![image](https://github.com/ManalEssaoulajy/controlejee/assets/147450276/fa17aef6-c839-4fd2-abe3-aef5d10ac725)
 
 ### AFFICHER LES ARTICLES PAR CATEGORIES
-![image](https://github.com/ManalEssaoulajy/controlejee/assets/147450276/9915a5ed-221c-4784-a313-d29436d02423)
+
+
+![image](https://github.com/ManalEssaoulajy/controlejee/assets/147450276/f1d53ac7-7d30-439c-9fb5-e944466160f6)
+
+![image](https://github.com/ManalEssaoulajy/controlejee/assets/147450276/ce9bc4c9-1715-4a97-9604-e4f287e67db9)
+
+
+
+![image](https://github.com/ManalEssaoulajy/controlejee/assets/147450276/cc0ea3a7-eafa-4652-8f40-58fbbff26924)
 
 ![image](https://github.com/ManalEssaoulajy/controlejee/assets/147450276/f89b361d-435d-4f02-8398-291ced48b381)
 
 ## Postman
 ![Capture d'écran 2023-11-15 171344](https://github.com/ManalEssaoulajy/controlejee/assets/147450276/9dbf0893-04fd-457c-bc5c-4019baa953a8)
+
+
+
+
 
 ![Capture d'écran 2023-11-15 171917](https://github.com/ManalEssaoulajy/controlejee/assets/147450276/b2a7f28d-acea-4890-a871-df2745dc8262)
 
